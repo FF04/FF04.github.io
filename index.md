@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## FF04
 
 You can use the [editor on GitHub](https://github.com/FF04/FF04.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -21,10 +21,12 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and  text
 
-[Link](url) and ![Image](src)
 ```
+`Code`
+[Link](url) and ![Image](src)
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
