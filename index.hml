@@ -3,47 +3,117 @@
     <title>FF04</title>
     <meta charset="utf-8">
     <style>
+	
+	
+	
       #header
       {
-      background-color: #5588EE;
+      background-color: #111111;
       height: 10%;
       vertical-align: top;
-      
+         padding: 5%;
+		 width:100vw;
       }
+	  
+	  
         #body
       {
-       background-color: #99aaFF;
+     color: white;
       height: 100%;
       vertical-align: center;
-      
+         padding: 5%;
       }
         #footer
       {
-         background-color: #3355bb;
-      height: 20%;
+         background-color: #777777;
+      height: 10%;
       vertical-align: bottom;
-      
+      padding: 5%;
+	   width:100vw;
       }
+	  
+	  
+	  
+	  
+	  
+	  body
+	  {
+margin:0;
+}
+	  
+	  h1{
+	  font-size: 60px;
+	  }
+	  
+	    body{  
+	  
+	  
+	  background-color: #222222;
+	  
+	
+	  }
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  .rainbow
+	  {
+	  
+	    animation-name: bgcolor;
+	  animation-duration:6s;
+	  animation-iteration-count: infinite;
+	  animation-timing-function: ease-in-out;
+	  animation-play-state:running;
+	  
+	  }
+	  
+	
+	  
     
+	@keyframes bgcolor
+	{
+			
+			0%
+			{	color: #0000FF;}
+			15%
+			{color: #00FFFF;	}
+			30%
+			{	color: #00FF00;}
+			45%
+			{color: #FFFF00;	}
+			60%
+			{color: #FF0000;	}
+			75%
+			{color: #FF00FF;	}
+			100%
+			{color: #0000FF;	}
+			
+	
+	}
+	
     
     </style>
   </head>
   <body>
     <div id="header">
       <!-- header -->
-    FF04
-    
+	  
+   <h1 class="rainbow"> FF04</h1>
+   
     </div>
     <div id="body">
     
-    BODY
+    Fabian Fried
     
     
     
     </div>
    <div id="footer">
     
-    FOOTER
+ ... 
     
     </div>
   </body>
