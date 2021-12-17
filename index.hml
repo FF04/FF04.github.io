@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title>FF04</title>
+    <meta charset="utf-8">
+    <style>
+      #header
+      {
+      background-color: #5588EE;
+      height: 10%;
+      vertical-align: top;
+      
+      }
+        #body
+      {
+       background-color: #99aaFF;
+      height: 100%;
+      vertical-align: center;
+      
+      }
+        #footer
+      {
+         background-color: #3355bb;
+      height: 20%;
+      vertical-align: bottom;
+      
+      }
+    
+    
+    </style>
+  </head>
+  <body>
+    <div id="header">
+      <!-- header -->
+    FF04
+    
+    </div>
+    <div id="body">
+    
+    BODY
+    
+    
+    
+    </div>
+   <div id="footer">
+    
+    FOOTER
+    
+    </div>
+  </body>
+</html>
